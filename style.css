@@ -1,0 +1,14 @@
+.container {
+  background-image: url(./image/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid #f8dad0;
+}
+.nav-link {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.35);
+  background: #b0d4b8 !important;
+  color: #21244d !important;
+}
+.nav-pills .nav-link.active {
+  color: yellow !important;
+}
