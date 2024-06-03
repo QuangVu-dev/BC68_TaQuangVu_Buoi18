@@ -1,5 +1,5 @@
 .container {
-  background-image: url(./image/background.jpeg);
+  background-image: url(./image/Background.png);
   background-repeat: no-repeat;
   background-size: cover;
   border: 2px solid #f8dad0;
@@ -10,5 +10,27 @@
   color: #21244d !important;
 }
 .nav-pills .nav-link.active {
-  color: yellow !important;
+  color: purple !important;
+}
+a {
+  text-align: left !important;
+  width: 100%;
+  background: aliceblue !important;
+  color: black !important;
+  border-radius: 0 !important;
+}
+.card {
+  border-radius: 0 !important;
+}
+#ketQuaThemSo {
+  background-color: #d1e7dd;
+}
+button {
+  width: fit-content;
+  cursor: pointer;
+}
+p {
+  margin-top: 16px !important;
+  margin-bottom: 0px;
+  background-color: #d1e7dd;
 }
